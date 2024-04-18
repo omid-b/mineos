@@ -39,7 +39,7 @@ AC_ARG_ENABLE([doc],
 if test "x$enable_doc" != "xno"; then
 	AC_CHECK_PROG([LYX], [lyx], [lyx])
 	if test -z "$LYX"; then
-		AC_MSG_ERROR([Unable to create PDF version of the user manual without LyX.])
+		AC_MSG_NOTICE([Unable to create PDF version of the user manual without LyX.])
 	fi
 fi
 AM_CONDITIONAL([HAVE_LYX], test -n "$LYX")
