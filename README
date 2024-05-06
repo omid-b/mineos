@@ -24,7 +24,7 @@ If that succeeds, then run "make" to build Mineos.
 The file INSTALL has more detailed instructions on how to build
 Mineos.
 
-The manual is at doc/mineos.pdf.
+The manual is at https://geodynamics.org/resources/mineos.
 
 If you have any problems, please send a message to
     cig-seismo@geodynamics.org
