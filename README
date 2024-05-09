@@ -26,8 +26,9 @@ Mineos.
 
 The manual is at doc/mineos.pdf.
 
-If you have any problems, please send a message to
-    cig-seismo@geodynamics.org
+Please report any bugs by opening an issue in the project's github repository at geodynamics/mineos.
+If you have any questions about the software, please post on the CIG forums at:
+    https://community.geodynamics.org/
 
 MINEOS is free software.  See the file COPYING for copying conditions.
 
